@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요. 주니어 웹/앱개발자 신정광입니다. <br> 영업,마케팅,기획 경력으로 커뮤니케이션 기술이 강점입니다.<br></h1>
+<h1 align="center">안녕하세요. 주니어 웹/앱개발자 신정광입니다.<br>영업,마케팅,기획경력으로 커뮤니케이션 기술이 강점입니다.<br></h1>
 <h3 align="center"> PHP개발자로 다양한 프로젝트를 개발,<br>Java기반의 SpringBoot로 팀 프로젝트에 참여하였으며, PM,역할까지 수행했습니다.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwc0213&label=Profile%20views&color=0e75b6&style=flat" alt="dwc0213" /> </p>
