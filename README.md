@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요 영업,기획 경력으로 커뮤니케이션 스킬을 익히고,<br> 웹 개발자로 전향한 신정광입니다.</h1>
+<h1 align="center">안녕하세요. 웹/앱개발자 신정광입니다. 개발뿐 아니라 영업,마케팅,기획 경력을 통해 커뮤니케이션 기술을 강점으로 갖추고 있습니다.<br></h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwc0213&label=Profile%20views&color=0e75b6&style=flat" alt="dwc0213" /> </p>
